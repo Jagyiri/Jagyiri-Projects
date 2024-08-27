@@ -7,9 +7,9 @@ A committed cybersecurity professional with hands-on experience in implementing 
 ## Skills & Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Detection Lab](#)          |
+| Framework, Controls and Audit          | [Security Audit Lab](https://github.com/Jagyiri-Cyber/Security-Audit-Lab/blob/main/README.md)          |
 | Network Traffic Monitoring and Attack Detection | [Network Security Project](#) |
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](#)     |
+| SIEM Implementation and Log Analysis        | [SOC Automation Lab](#)     |
 | Incident Response with Chronicle and Splunk   | [Incident Response Lab](#)  |
 | Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#)     |
 
