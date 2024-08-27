@@ -1,5 +1,5 @@
 # Hello, I'm Jesse Johnson Agyiri  
-<a href="https://www.linkedin.com/in/jesse-johnson-agyiri-399728124"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jagyiri"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 A committed cybersecurity professional with hands-on experience in implementing security frameworks, threat identification, and incident response. Currently seeking opportunities to contribute to a Security Operations Center (SOC) as a Tier 1 Analyst.
