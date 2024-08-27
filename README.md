@@ -11,7 +11,7 @@ A committed cybersecurity professional with hands-on experience in implementing 
 | Network Traffic Monitoring and Attack Detection | [Network Security Project](#) |
 | SIEM Implementation and Log Analysis        | [SOC Automation Lab](#)     |
 | Incident Response with Chronicle and Splunk   | [Incident Response Lab](#)  |
-| Python Script and Automation for Acccess Control   | [SOC Automation Lab](https://github.com/Jagyiri-Cyber/Python-File-Update-Automation-Lab/blob/main/README.md)     |
+| Python Script Automation for Acccess Control   | [Python Automation Lab](https://github.com/Jagyiri-Cyber/Python-File-Update-Automation-Lab/blob/main/README.md)     |
 
 ## Tools
 
