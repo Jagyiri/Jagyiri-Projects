@@ -31,7 +31,6 @@ A committed cybersecurity professional with hands-on experience in implementing 
 ### Scripting & Automation
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Shuffle-FF6F00?&style=for-the-badge&logo=Shuffle&logoColor=white" />
 </div>
 
 ## Certifications
