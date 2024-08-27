@@ -7,11 +7,12 @@ A committed cybersecurity professional with hands-on experience in implementing 
 ## Skills & Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Framework, Controls and Audit          | [Security Audit Lab](https://github.com/Jagyiri-Cyber/Security-Audit-Lab/blob/main/README.md)          |
-| Network Traffic Monitoring and Attack Detection | [Network Security Project](#) |
+| Framework, Controls and Audit          | [Security Audit Lab](https://github.com/Jagyiri-Cyber/Security-Audit-Lab/blob/main/README.md) |
+| Python Script Automation for Acccess Control   | [Python Automation Lab](https://github.com/Jagyiri-Cyber/Python-File-Update-Automation-Lab/blob/main/README.md)     |
+<!-- | Network Traffic Monitoring and Attack Detection | [Network Security Project](#) | 
 | SIEM Implementation and Log Analysis        | [SOC Automation Lab](#)     |
 | Incident Response with Chronicle and Splunk   | [Incident Response Lab](#)  |
-| Python Script Automation for Acccess Control   | [Python Automation Lab](https://github.com/Jagyiri-Cyber/Python-File-Update-Automation-Lab/blob/main/README.md)     |
+| Python Script Automation for Acccess Control   | [Python Automation Lab](https://github.com/Jagyiri-Cyber/Python-File-Update-Automation-Lab/blob/main/README.md)  |  -->
 
 ## Tools
 
@@ -38,10 +39,13 @@ A committed cybersecurity professional with hands-on experience in implementing 
     <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-IBM_Introduction_to_Cloud_and_Security-FF6F00?&style=for-the-badge&logo=IBM&logoColor=white" />
     <img src="https://img.shields.io/badge/-CompTIA_Security+-F79534?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<br><br><br><br><br>
+
+
 </div>
 
-## Projects
+<!-- ## Projects
 - [Detection Lab](#)
 - [SOC Automation Project](#)
 - [Network Security Project](#)
-- [Incident Response Lab](#)
+- [Incident Response Lab](#) -->
