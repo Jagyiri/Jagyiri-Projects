@@ -7,6 +7,7 @@ A committed cybersecurity professional with hands-on experience in implementing 
 ## Skills & Projects
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Virtual Network Simulation with OPNSense Firewall, Suricata IDS/IPS, Squid Transparent Proxy and Web Filtering and High Availablity Configuration       | [Network Defense & Threat Detection](#)     |
 | Framework, Controls and Audit          | [Security Audit Lab](https://github.com/Jagyiri-Cyber/Security-Audit-Lab/blob/main/README.md) |
 | Python Script Automation for Acccess Control   | [Python Automation Lab](https://github.com/Jagyiri-Cyber/Python-File-Update-Automation-Lab/blob/main/README.md)     |
 <!-- | Network Traffic Monitoring and Attack Detection | [Network Security Project](#) | 
